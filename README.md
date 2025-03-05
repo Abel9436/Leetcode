@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Abel9436/Leetcode/tree/master/0055-jump-game) |
+| [0523-continuous-subarray-sum](https://github.com/Abel9436/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1095-two-city-scheduling](https://github.com/Abel9436/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Abel9436/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Greedy
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Abel9436/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [3055-maximum-odd-binary-number](https://github.com/Abel9436/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 ## String
 |  |
@@ -36,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Abel9436/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+## Hash Table
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Abel9436/Leetcode/tree/master/0523-continuous-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Abel9436/Leetcode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->

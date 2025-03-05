@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Abel9436/Leetcode/tree/master/0055-jump-game) |
 | [1095-two-city-scheduling](https://github.com/Abel9436/Leetcode/tree/master/1095-two-city-scheduling) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Abel9436/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Abel9436/Leetcode/tree/master/0055-jump-game) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Abel9436/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Math
 |  |
 | ------- |

@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Abel9436/Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Abel9436/Leetcode/tree/master/0071-simplify-path) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Abel9436/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [3055-maximum-odd-binary-number](https://github.com/Abel9436/Leetcode/tree/master/3055-maximum-odd-binary-number) |
@@ -50,5 +51,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Abel9436/Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Abel9436/Leetcode/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->

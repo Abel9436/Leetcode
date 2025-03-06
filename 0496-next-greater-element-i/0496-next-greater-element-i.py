@@ -11,14 +11,16 @@ class Solution(object):
         for num in nums2:
            
             while stack and stack[-1] < num:
-                counter[stack.pop()] = num
+                popped = stack.pop()
+                counter[popped] = num
 
             
             stack.append(num)
 
        
         while stack:
-            counter[stack.pop()] = -1
+            popped = stack.pop()
+            counter[popped] = -1
 
         
         return [counter[num] for num in nums1]

@@ -7,11 +7,7 @@ class DataStream(object):
         """
         self.value = value
         self.k = k
-
-        self.k_size_que = deque()
-
         self.counter = 0
-
 
 
     def consec(self, num):

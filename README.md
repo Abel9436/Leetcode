@@ -48,11 +48,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Abel9436/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Abel9436/Leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Hash Table
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Abel9436/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Abel9436/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Abel9436/Leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abel9436/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
@@ -79,16 +81,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Abel9436/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0969-number-of-recent-calls](https://github.com/Abel9436/Leetcode/tree/master/0969-number-of-recent-calls) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Abel9436/Leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Abel9436/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0969-number-of-recent-calls](https://github.com/Abel9436/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Abel9436/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Abel9436/Leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Data Stream
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/Abel9436/Leetcode/tree/master/0969-number-of-recent-calls) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Abel9436/Leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Matrix
 |  |
 | ------- |

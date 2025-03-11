@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Abel9436/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Abel9436/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0739-daily-temperatures](https://github.com/Abel9436/Leetcode/tree/master/0739-daily-temperatures) |
+| [0859-design-circular-deque](https://github.com/Abel9436/Leetcode/tree/master/0859-design-circular-deque) |
 | [1095-two-city-scheduling](https://github.com/Abel9436/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Abel9436/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Abel9436/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Abel9436/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abel9436/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0859-design-circular-deque](https://github.com/Abel9436/Leetcode/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/Abel9436/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Abel9436/Leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Queue
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Abel9436/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abel9436/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0859-design-circular-deque](https://github.com/Abel9436/Leetcode/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/Abel9436/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Abel9436/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Abel9436/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -142,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Abel9436/Leetcode/tree/master/0342-power-of-four) |
+## Linked List
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/Abel9436/Leetcode/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->

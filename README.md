@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/Abel9436/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0342-power-of-four](https://github.com/Abel9436/Leetcode/tree/master/0342-power-of-four) |
 | [0523-continuous-subarray-sum](https://github.com/Abel9436/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [3055-maximum-odd-binary-number](https://github.com/Abel9436/Leetcode/tree/master/3055-maximum-odd-binary-number) |

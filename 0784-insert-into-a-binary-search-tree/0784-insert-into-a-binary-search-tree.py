@@ -5,9 +5,17 @@
 #         self.left = left
 #         self.right = right
 class Solution(object):
-    def insert(self,root , val):
+    
+    def insert(self,root,val):
         if root is None:
-            return ListNode(val)
+            return TreeNode(val)
+        if root.val == val:
+                return root
+        if root.val < val:
+            root.right = self.insert(root.right, val)
+        else:
+            root.left = self.insert(root.left, val)
+        return root
         
 
     def insertIntoBST(self, root, val):
@@ -16,16 +24,7 @@ class Solution(object):
         :type val: int
         :rtype: Optional[TreeNode]
         """
-        def insert(root,val):
-            if root is None:
-                return TreeNode(val)
-            if root.val == val:
-                    return root
-            if root.val < val:
-                root.right = insert(root.right, val)
-            else:
-                root.left = insert(root.left, val)
-            return root
-        return insert(root,val)
+        return self.insert(root,val)
+        
         
         

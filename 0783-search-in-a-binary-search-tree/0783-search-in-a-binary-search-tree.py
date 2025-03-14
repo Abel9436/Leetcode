@@ -23,16 +23,21 @@ class Solution(object):
         # if root is None:
         #     return None
         
-        # if root.val < 
-        # def search(node):
-        #     if node.val == val:
-                
-        #         preorder(node)
+        # # if root.val < 
+        def search(node):
+            if node is None:
+                return None
 
-        #     if node.val > val:
-        #         search(node.left)
-        #     if node.val < val:
-        #         search(node.right)
+
+            
+            if node.val == val:
+                return node
+            # preorder(node)
+
+            if node.val > val:
+                search(node.left)
+            if node.val < val:
+                search(node.right)
         # search(root)
 
         return self.search(root,val)

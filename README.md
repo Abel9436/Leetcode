@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Abel9436/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/Abel9436/Leetcode/tree/master/0886-score-of-parentheses) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Abel9436/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Abel9436/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Abel9436/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Abel9436/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 ## Counting
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0874-backspace-string-compare](https://github.com/Abel9436/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Abel9436/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Abel9436/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Abel9436/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abel9436/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Design
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Abel9436/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Abel9436/Leetcode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Abel9436/Leetcode/tree/master/0394-decode-string) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Abel9436/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abel9436/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Linked List
 |  |

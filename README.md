@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/Abel9436/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Abel9436/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abel9436/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Abel9436/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Greedy
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Abel9436/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Abel9436/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Stack
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Abel9436/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Abel9436/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Abel9436/Leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Abel9436/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Data Stream
 |  |
 | ------- |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Abel9436/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2478-longest-nice-subarray](https://github.com/Abel9436/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Abel9436/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Abel9436/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -166,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Abel9436/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Abel9436/Leetcode/tree/master/0342-power-of-four) |
 | [2478-longest-nice-subarray](https://github.com/Abel9436/Leetcode/tree/master/2478-longest-nice-subarray) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Abel9436/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abel9436/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |

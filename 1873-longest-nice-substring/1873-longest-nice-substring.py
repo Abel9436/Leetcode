@@ -5,11 +5,11 @@ class Solution:
         if n < 2:
             return ''
         characters = set(s)
-        print(characters)
+        
 
         for i , c in enumerate(s):
 
-            if c.swapcase() not in characters:
+            if c.isupper() and c.lower() not in characters:
 
                 left =  self.longestNiceSubstring(s[:i])
                 right = self.longestNiceSubstring(s[i+1:])

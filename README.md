@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-score-of-parentheses](https://github.com/Abel9436/Leetcode/tree/master/0886-score-of-parentheses) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Abel9436/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Abel9436/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1873-longest-nice-substring](https://github.com/Abel9436/Leetcode/tree/master/1873-longest-nice-substring) |
 | [2470-removing-stars-from-a-string](https://github.com/Abel9436/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Abel9436/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 ## Counting
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Abel9436/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Abel9436/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [1873-longest-nice-substring](https://github.com/Abel9436/Leetcode/tree/master/1873-longest-nice-substring) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Abel9436/Leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abel9436/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Prefix Sum
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Abel9436/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1873-longest-nice-substring](https://github.com/Abel9436/Leetcode/tree/master/1873-longest-nice-substring) |
 | [2478-longest-nice-subarray](https://github.com/Abel9436/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Abel9436/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Abel9436/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Abel9436/Leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Abel9436/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Abel9436/Leetcode/tree/master/0342-power-of-four) |
+| [1873-longest-nice-substring](https://github.com/Abel9436/Leetcode/tree/master/1873-longest-nice-substring) |
 | [2478-longest-nice-subarray](https://github.com/Abel9436/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Abel9436/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abel9436/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -279,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Abel9436/Leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Abel9436/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Abel9436/Leetcode/tree/master/0078-subsets) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1873-longest-nice-substring](https://github.com/Abel9436/Leetcode/tree/master/1873-longest-nice-substring) |
 <!---LeetCode Topics End-->

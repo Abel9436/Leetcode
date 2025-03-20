@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Abel9436/Leetcode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Abel9436/Leetcode/tree/master/0055-jump-game) |
 | [0119-pascals-triangle-ii](https://github.com/Abel9436/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0456-132-pattern](https://github.com/Abel9436/Leetcode/tree/master/0456-132-pattern) |
@@ -263,5 +264,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Abel9436/Leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Abel9436/Leetcode/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->

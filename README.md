@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/Abel9436/Leetcode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Abel9436/Leetcode/tree/master/0055-jump-game) |
+| [0078-subsets](https://github.com/Abel9436/Leetcode/tree/master/0078-subsets) |
 | [0119-pascals-triangle-ii](https://github.com/Abel9436/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0456-132-pattern](https://github.com/Abel9436/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Abel9436/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Abel9436/Leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Abel9436/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Abel9436/Leetcode/tree/master/0342-power-of-four) |
 | [2478-longest-nice-subarray](https://github.com/Abel9436/Leetcode/tree/master/2478-longest-nice-subarray) |
@@ -269,4 +271,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/Abel9436/Leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Abel9436/Leetcode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Abel9436/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

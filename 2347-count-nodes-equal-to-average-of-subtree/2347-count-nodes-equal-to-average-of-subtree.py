@@ -1,27 +1,20 @@
-# Definition for a binary tree node.
-# class TreeNode:
-#     def __init__(self, val=0, left=None, right=None):
-#         self.val = val
-#         self.left = left
-#         self.right = right
 class Solution:
-    counter = 0
-    def compute(self,node):
+    def compute(self, node, counter):
         if not node:
-            return (0,0)
+            return 0, 0
 
-        left_s , left_c = self.compute(node.left)
-        right_s , right_c = self.compute(node.left)
+        left_s, left_c = self.compute(node.left, counter)
+        right_s, right_c = self.compute(node.right, counter) 
+        total = left_s + right_s + node.val
+        t_c = left_c + right_c + 1
 
-        total = left_s + right_s
-
-
-        if (total //(left_c + right_c + 1 )) == node.val:
-            self.counter +=1
-        return total ,left_c + right_c + 1
-        
+        if (total // t_c) == node.val:
+            counter[0] += 1
+        return total, t_c
         
     def averageOfSubtree(self, root: TreeNode) -> int:
-        # counter = 0
-        self.compute(root)
-        return self.counter + 1
+        counter = [0] 
+
+        self.compute(root, counter)
+        
+        return counter[0]

@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-longest-nice-substring](https://github.com/Abel9436/Leetcode/tree/master/1873-longest-nice-substring) |
 | [2470-removing-stars-from-a-string](https://github.com/Abel9436/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Abel9436/Leetcode/tree/master/3055-maximum-odd-binary-number) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Abel9436/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Counting
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Abel9436/Leetcode/tree/master/0342-power-of-four) |
 | [1873-longest-nice-substring](https://github.com/Abel9436/Leetcode/tree/master/1873-longest-nice-substring) |
 | [2478-longest-nice-subarray](https://github.com/Abel9436/Leetcode/tree/master/2478-longest-nice-subarray) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Abel9436/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Abel9436/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abel9436/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Abel9436/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Abel9436/Leetcode/tree/master/0078-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/Abel9436/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Abel9436/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Divide and Conquer
 |  |
 | ------- |

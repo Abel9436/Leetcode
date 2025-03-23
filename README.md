@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Abel9436/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Abel9436/Leetcode/tree/master/0342-power-of-four) |
 | [0523-continuous-subarray-sum](https://github.com/Abel9436/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Abel9436/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3055-maximum-odd-binary-number](https://github.com/Abel9436/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abel9436/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abel9436/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Abel9436/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Abel9436/Leetcode/tree/master/0078-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/Abel9436/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Abel9436/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Abel9436/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Divide and Conquer
 |  |

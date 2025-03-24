@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abel9436/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Abel9436/Leetcode/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/Abel9436/Leetcode/tree/master/0278-first-bad-version) |
 | [0456-132-pattern](https://github.com/Abel9436/Leetcode/tree/master/0456-132-pattern) |
 | [0792-binary-search](https://github.com/Abel9436/Leetcode/tree/master/0792-binary-search) |
 ## Tree
@@ -333,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Abel9436/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Abel9436/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

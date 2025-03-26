@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abel9436/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/Abel9436/Leetcode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Abel9436/Leetcode/tree/master/0055-jump-game) |
+| [0074-search-a-2d-matrix](https://github.com/Abel9436/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Abel9436/Leetcode/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abel9436/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Abel9436/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Abel9436/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abel9436/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abel9436/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Monotonic Stack
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Abel9436/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abel9436/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Abel9436/Leetcode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Abel9436/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Abel9436/Leetcode/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/Abel9436/Leetcode/tree/master/0278-first-bad-version) |
 | [0456-132-pattern](https://github.com/Abel9436/Leetcode/tree/master/0456-132-pattern) |

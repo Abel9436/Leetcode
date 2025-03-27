@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abel9436/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2478-longest-nice-subarray](https://github.com/Abel9436/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Abel9436/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Abel9436/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abel9436/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3430-count-days-without-meetings](https://github.com/Abel9436/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Abel9436/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-reveal-cards-in-increasing-order](https://github.com/Abel9436/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1095-two-city-scheduling](https://github.com/Abel9436/Leetcode/tree/master/1095-two-city-scheduling) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abel9436/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Abel9436/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/Abel9436/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Abel9436/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Dynamic Programming
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/Abel9436/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1873-longest-nice-substring](https://github.com/Abel9436/Leetcode/tree/master/1873-longest-nice-substring) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Abel9436/Leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Abel9436/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abel9436/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |

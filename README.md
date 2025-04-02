@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Abel9436/Leetcode/tree/master/0162-find-peak-element) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Abel9436/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0456-132-pattern](https://github.com/Abel9436/Leetcode/tree/master/0456-132-pattern) |
+| [0475-heaters](https://github.com/Abel9436/Leetcode/tree/master/0475-heaters) |
 | [0496-next-greater-element-i](https://github.com/Abel9436/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Abel9436/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0739-daily-temperatures](https://github.com/Abel9436/Leetcode/tree/master/0739-daily-temperatures) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Abel9436/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0475-heaters](https://github.com/Abel9436/Leetcode/tree/master/0475-heaters) |
 | [0948-sort-an-array](https://github.com/Abel9436/Leetcode/tree/master/0948-sort-an-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Abel9436/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1095-two-city-scheduling](https://github.com/Abel9436/Leetcode/tree/master/1095-two-city-scheduling) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0475-heaters](https://github.com/Abel9436/Leetcode/tree/master/0475-heaters) |
 | [0768-partition-labels](https://github.com/Abel9436/Leetcode/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/Abel9436/Leetcode/tree/master/0874-backspace-string-compare) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Abel9436/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Abel9436/Leetcode/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/Abel9436/Leetcode/tree/master/0278-first-bad-version) |
 | [0456-132-pattern](https://github.com/Abel9436/Leetcode/tree/master/0456-132-pattern) |
+| [0475-heaters](https://github.com/Abel9436/Leetcode/tree/master/0475-heaters) |
 | [0792-binary-search](https://github.com/Abel9436/Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Abel9436/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Abel9436/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |

@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Abel9436/Leetcode/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/Abel9436/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Abel9436/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0475-heaters](https://github.com/Abel9436/Leetcode/tree/master/0475-heaters) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Abel9436/Leetcode/tree/master/0148-sort-list) |
 | [0475-heaters](https://github.com/Abel9436/Leetcode/tree/master/0475-heaters) |
 | [0768-partition-labels](https://github.com/Abel9436/Leetcode/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/Abel9436/Leetcode/tree/master/0874-backspace-string-compare) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abel9436/Leetcode/tree/master/0002-add-two-numbers) |
+| [0148-sort-list](https://github.com/Abel9436/Leetcode/tree/master/0148-sort-list) |
 | [0859-design-circular-deque](https://github.com/Abel9436/Leetcode/tree/master/0859-design-circular-deque) |
 ## Binary Search
 |  |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abel9436/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Abel9436/Leetcode/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/Abel9436/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Abel9436/Leetcode/tree/master/0948-sort-an-array) |
 | [1285-balance-a-binary-search-tree](https://github.com/Abel9436/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
@@ -421,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Abel9436/Leetcode/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/Abel9436/Leetcode/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |

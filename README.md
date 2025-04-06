@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Abel9436/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Abel9436/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Abel9436/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Abel9436/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abel9436/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2262-solving-questions-with-brainpower](https://github.com/Abel9436/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2478-longest-nice-subarray](https://github.com/Abel9436/Leetcode/tree/master/2478-longest-nice-subarray) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Abel9436/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Abel9436/Leetcode/tree/master/0342-power-of-four) |
 | [0523-continuous-subarray-sum](https://github.com/Abel9436/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Abel9436/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abel9436/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Abel9436/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Abel9436/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Abel9436/Leetcode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Abel9436/Leetcode/tree/master/0645-set-mismatch) |
 | [1873-longest-nice-substring](https://github.com/Abel9436/Leetcode/tree/master/1873-longest-nice-substring) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Abel9436/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2478-longest-nice-subarray](https://github.com/Abel9436/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Abel9436/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Abel9436/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Abel9436/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Abel9436/Leetcode/tree/master/0078-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/Abel9436/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Abel9436/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Abel9436/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Abel9436/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Divide and Conquer
@@ -453,4 +457,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Abel9436/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Abel9436/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Abel9436/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->

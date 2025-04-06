@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Abel9436/Leetcode/tree/master/0162-find-peak-element) |
 | [0347-top-k-frequent-elements](https://github.com/Abel9436/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Abel9436/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0410-split-array-largest-sum](https://github.com/Abel9436/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abel9436/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abel9436/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Abel9436/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Abel9436/Leetcode/tree/master/0055-jump-game) |
+| [0410-split-array-largest-sum](https://github.com/Abel9436/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Abel9436/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0768-partition-labels](https://github.com/Abel9436/Leetcode/tree/master/0768-partition-labels) |
 | [1095-two-city-scheduling](https://github.com/Abel9436/Leetcode/tree/master/1095-two-city-scheduling) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Abel9436/Leetcode/tree/master/0055-jump-game) |
 | [0119-pascals-triangle-ii](https://github.com/Abel9436/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0368-largest-divisible-subset](https://github.com/Abel9436/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0410-split-array-largest-sum](https://github.com/Abel9436/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Abel9436/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Abel9436/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Abel9436/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Abel9436/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Abel9436/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Abel9436/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Stack
@@ -298,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abel9436/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Abel9436/Leetcode/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/Abel9436/Leetcode/tree/master/0278-first-bad-version) |
+| [0410-split-array-largest-sum](https://github.com/Abel9436/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0456-132-pattern](https://github.com/Abel9436/Leetcode/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/Abel9436/Leetcode/tree/master/0475-heaters) |
 | [0792-binary-search](https://github.com/Abel9436/Leetcode/tree/master/0792-binary-search) |

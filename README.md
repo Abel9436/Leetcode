@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Abel9436/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Abel9436/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/Abel9436/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [0922-possible-bipartition](https://github.com/Abel9436/Leetcode/tree/master/0922-possible-bipartition) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Abel9436/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Abel9436/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abel9436/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Abel9436/Leetcode/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Abel9436/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0801-is-graph-bipartite](https://github.com/Abel9436/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [0922-possible-bipartition](https://github.com/Abel9436/Leetcode/tree/master/0922-possible-bipartition) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abel9436/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Abel9436/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Abel9436/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Abel9436/Leetcode/tree/master/0200-number-of-islands) |
 | [0801-is-graph-bipartite](https://github.com/Abel9436/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [0922-possible-bipartition](https://github.com/Abel9436/Leetcode/tree/master/0922-possible-bipartition) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Abel9436/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Abel9436/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Abel9436/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/Abel9436/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [0922-possible-bipartition](https://github.com/Abel9436/Leetcode/tree/master/0922-possible-bipartition) |
 | [1039-find-the-town-judge](https://github.com/Abel9436/Leetcode/tree/master/1039-find-the-town-judge) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Abel9436/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Abel9436/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |

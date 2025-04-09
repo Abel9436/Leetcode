@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Abel9436/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Abel9436/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/Abel9436/Leetcode/tree/master/0645-set-mismatch) |
+| [0690-employee-importance](https://github.com/Abel9436/Leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Abel9436/Leetcode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/Abel9436/Leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Abel9436/Leetcode/tree/master/0792-binary-search) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Abel9436/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Abel9436/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/Abel9436/Leetcode/tree/master/0645-set-mismatch) |
+| [0690-employee-importance](https://github.com/Abel9436/Leetcode/tree/master/0690-employee-importance) |
 | [0768-partition-labels](https://github.com/Abel9436/Leetcode/tree/master/0768-partition-labels) |
 | [1039-find-the-town-judge](https://github.com/Abel9436/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1160-letter-tile-possibilities](https://github.com/Abel9436/Leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abel9436/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Abel9436/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Abel9436/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0690-employee-importance](https://github.com/Abel9436/Leetcode/tree/master/0690-employee-importance) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Abel9436/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Abel9436/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Abel9436/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abel9436/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0463-island-perimeter](https://github.com/Abel9436/Leetcode/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Abel9436/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0690-employee-importance](https://github.com/Abel9436/Leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Abel9436/Leetcode/tree/master/0695-max-area-of-island) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Abel9436/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Abel9436/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -407,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Abel9436/Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Abel9436/Leetcode/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Abel9436/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0690-employee-importance](https://github.com/Abel9436/Leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Abel9436/Leetcode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Abel9436/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/Abel9436/Leetcode/tree/master/0922-possible-bipartition) |

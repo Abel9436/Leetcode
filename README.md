@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Abel9436/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Abel9436/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Abel9436/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Abel9436/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Math
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/Abel9436/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3055-maximum-odd-binary-number](https://github.com/Abel9436/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abel9436/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Abel9436/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abel9436/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-longest-nice-substring](https://github.com/Abel9436/Leetcode/tree/master/1873-longest-nice-substring) |
 | [2470-removing-stars-from-a-string](https://github.com/Abel9436/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Abel9436/Leetcode/tree/master/3055-maximum-odd-binary-number) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Abel9436/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Abel9436/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Counting
 |  |

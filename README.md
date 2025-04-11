@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Abel9436/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abel9436/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1285-balance-a-binary-search-tree](https://github.com/Abel9436/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/Abel9436/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Abel9436/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/Abel9436/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Abel9436/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Abel9436/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abel9436/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1285-balance-a-binary-search-tree](https://github.com/Abel9436/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/Abel9436/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Abel9436/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Abel9436/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Abel9436/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Abel9436/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/Abel9436/Leetcode/tree/master/0922-possible-bipartition) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abel9436/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/Abel9436/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Abel9436/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Abel9436/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Abel9436/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |

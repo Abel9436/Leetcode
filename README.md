@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abel9436/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0463-island-perimeter](https://github.com/Abel9436/Leetcode/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Abel9436/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/Abel9436/Leetcode/tree/master/0547-number-of-provinces) |
 | [0690-employee-importance](https://github.com/Abel9436/Leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Abel9436/Leetcode/tree/master/0695-max-area-of-island) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Abel9436/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Abel9436/Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Abel9436/Leetcode/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Abel9436/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/Abel9436/Leetcode/tree/master/0547-number-of-provinces) |
 | [0690-employee-importance](https://github.com/Abel9436/Leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Abel9436/Leetcode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Abel9436/Leetcode/tree/master/0801-is-graph-bipartite) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Abel9436/Leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Abel9436/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Abel9436/Leetcode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Abel9436/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/Abel9436/Leetcode/tree/master/0922-possible-bipartition) |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Abel9436/Leetcode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Abel9436/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/Abel9436/Leetcode/tree/master/0922-possible-bipartition) |
 | [1039-find-the-town-judge](https://github.com/Abel9436/Leetcode/tree/master/1039-find-the-town-judge) |

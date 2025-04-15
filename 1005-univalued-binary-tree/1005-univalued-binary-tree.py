@@ -24,7 +24,7 @@ class Solution:
     
         # return dfs(root)
 
-        ###BFS
+        #BFS
 
         adj = defaultdict(list)
         def get_adj(node):
@@ -39,12 +39,8 @@ class Solution:
                 get_adj(node.right)
 
         get_adj(root)
-        print(adj)
-            
-
-        # for 
+       
         def bfs(graph, node):
-
 
             visited = set([node])
             queue= deque([node])

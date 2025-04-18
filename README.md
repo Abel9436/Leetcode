@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abel9436/Leetcode/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/Abel9436/Leetcode/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/Abel9436/Leetcode/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/Abel9436/Leetcode/tree/master/0394-decode-string) |
 | [0768-partition-labels](https://github.com/Abel9436/Leetcode/tree/master/0768-partition-labels) |
